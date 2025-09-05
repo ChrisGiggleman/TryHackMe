@@ -1,7 +1,7 @@
 
 ## 🎖️ TryHackMe Badge
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cgiggleman.png)](https://tryhackme.com/p/cgiggleman)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Giggle244.png" alt="Your Image Badge" />
 
 # 🧑‍💻 TryHackMe Write-Ups  
 
