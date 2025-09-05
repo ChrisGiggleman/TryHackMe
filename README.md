@@ -1,7 +1,8 @@
 
 ## 🎖️ TryHackMe Badge
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ChrisGiggleman.png)](https://tryhackme.com/p/ChrisGiggleman)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/cgiggleman.png)](https://tryhackme.com/p/cgiggleman)
+
 # 🧑‍💻 TryHackMe Write-Ups  
 
 ![Status](https://img.shields.io/badge/Progress-Active-brightgreen)  
