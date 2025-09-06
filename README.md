@@ -22,6 +22,9 @@ The goal is to document my process, highlight lessons learned, and track my prog
 - ![Status](https://img.shields.io/badge/Status-Completed-success)  
 
 ---
+### Challenges - Write-ups for Challenges
+- The Game (The_Game.md)
+- Infinity Shell (Infinity_Shell.md)
 
 ## 📊 Progress Tracker  
 
