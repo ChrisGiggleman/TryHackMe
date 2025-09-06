@@ -14,50 +14,43 @@ The goal is to document my process, highlight lessons learned, and track my prog
 
 ---
 
-## 📂 Current Modules  
+### 📂 Current Modules
 
-### SOC Simulator – Introduction to Phishing  
-- 📄 [SOC Simulator Report (DOCX)](./SOC%20Simulator%20Introduction%20to%20Phishing.docx)  
-- 📝 [SOC Simulator Write-Up (Markdown)](./SOC_Simulator_Phishing_writeup.md)  
-- ![Status](https://img.shields.io/badge/Status-Completed-success)  
+#### SOC Simulator
+
+| Module | Report | Write-Up | Status | Notes |
+|--------|--------|----------|--------|-------|
+| [SOC Simulator – Introduction to Phishing](SOC_Simulator_Phishing_writeup.md) | 📄 DOCX | 📝 MD | ✅ Completed | First SOC phishing case |
+| SOC Simulator – Malware Analysis | – | – | ⬜ Planned | Coming soon |
+| SOC Simulator – Web Attacks | – | – | ⬜ Planned | Coming soon |
+| Incident Response Labs | – | – | ⬜ Planned | Coming soon |
+| Red vs Blue Team Exercises | – | – | ⬜ Planned | Coming soon |
 
 ---
-## 🟡 Challenges - Write-Ups for Challenges
+
+### 🟡 Challenges - Write-Ups for Challenges
 
 | Challenge | Status | Write-Up |
 |-----------|--------|----------|
-| [The Game](The_Game.md) | ✅ In Progress | 📝 Markdown |
+| [The Game](The_Game.md) | 🟡 In Progress | 📝 Markdown |
 | [Infinity Shell](Infinity_Shell.md) | ✅ Completed | 📝 Markdown |
+| [Another Challenge](Challenges/Another_Challenge.md) | ⬜ Planned | 📝 Markdown |
 
-
-## 📊 Progress Tracker  
-
-| Module                                | Status       | Report | Write-Up | Notes |
-|---------------------------------------|-------------|--------|----------|-------|
-| SOC Simulator – Introduction to Phishing | ✅ Completed | 📄 DOCX | 📝 MD | First SOC phishing case |
-| SOC Simulator – Malware Analysis      | ⬜ Planned   | –      | –        | Coming soon |
-| SOC Simulator – Web Attacks           | ⬜ Planned   | –      | –        | Coming soon |
-| Incident Response Labs                | ⬜ Planned   | –      | –        | Coming soon |
-| Red vs Blue Team Exercises            | ⬜ Planned   | –      | –        | Coming soon |
-| Challenges                            | 🟡 In Progress | -    | -        |             |
-| **Template Row →** Replace this line when adding new modules | ⬜ Planned | – | – | Notes here |
-
-Legend:  
-- ✅ Completed  
-- 🟡 In Progress  
-- ⬜ Planned  
+> **Legend:**  
+> ✅ Completed  
+> 🟡 In Progress  
+> ⬜ Planned  
 
 ---
 
-## 🚀 Purpose of These Write-Ups  
+### 🚀 Purpose of These Write-Ups
+
 - Build practical SOC and incident response skills  
 - Practice professional documentation and reporting  
 - Create a reference library for future review and learning  
 
----
-
-## ✅ Notes  
-- All write-ups are **educational** and meant to showcase methodology, not to provide direct answers to TryHackMe challenges.  
-- Feedback and suggestions for improving report quality are always welcome!  
+> **Notes:**  
+> All write-ups are educational and meant to showcase methodology, not to provide direct answers to TryHackMe challenges.  
+> Feedback and suggestions for improving report quality are always welcome!
 
 ---
