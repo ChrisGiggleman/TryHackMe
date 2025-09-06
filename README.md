@@ -22,9 +22,11 @@ The goal is to document my process, highlight lessons learned, and track my prog
 - ![Status](https://img.shields.io/badge/Status-Completed-success)  
 
 ---
+## 🟡 Challenges - Write-Ups for Challenges
+
 | Challenge | Status | Write-Up |
 |-----------|--------|----------|
-| [The Game](The_Game.md) | 🟡 In Progress | 📝 Markdown |
+| [The Game](The_Game.md) | ✅ In Progress | 📝 Markdown |
 | [Infinity Shell](Infinity_Shell.md) | ✅ Completed | 📝 Markdown |
 
 
