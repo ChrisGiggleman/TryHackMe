@@ -32,6 +32,7 @@ The goal is to document my process, highlight lessons learned, and track my prog
 | SOC Simulator – Web Attacks           | ⬜ Planned   | –      | –        | Coming soon |
 | Incident Response Labs                | ⬜ Planned   | –      | –        | Coming soon |
 | Red vs Blue Team Exercises            | ⬜ Planned   | –      | –        | Coming soon |
+| Challenges                            | 🟡 In Progress | -    | -        |             |
 | **Template Row →** Replace this line when adding new modules | ⬜ Planned | – | – | Notes here |
 
 Legend:  
